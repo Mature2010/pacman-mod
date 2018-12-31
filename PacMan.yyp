@@ -191,6 +191,25 @@
             }
         },
         {
+            "Key": "3d0aa72e-d3af-4a74-b5ca-af54583950c6",
+            "Value": {
+                "id": "e659d06b-18bf-4013-be91-2e740c11902f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/spt_bonus\/spt_bonus.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "512e4fd7-b5c2-443d-a4e0-4413623912c8",
             "Value": {
                 "id": "d27836da-012b-4347-a681-9f9e209b431a",
